@@ -1,0 +1,108 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "I'm Prakash Kolluru, a full stack developer. I am a proficient software developer with expertise in languages like Java, JavaScript, Python, and frameworks such as ReactJs, Nodejs, and Spring boot. I have a strong foundation in data structures, algorithms, and software engineering principles, and is experienced in using tools like Docker, Maven, and AWS services. I'm currently seeking opportunities that will challenge me and provide avenues for professional and personal growth.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Netclix",
+        "startDate": "",
+        "description": "Self-designed and executed the development of a prototype of a full-stack web application resembling Netflix’s key features while utilizing Java and JavaScript frameworks like Spring for backend and ReactJS for frontend.",
+        "images": [
+          "/p1.png"
+        ],
+        "url": "https://github.com/prak03/Netclix",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-tailwindcss-original",
+            "name": "TailwindCSS"
+          }
+        ]
+      },
+      {
+        "title": "Teamtracker",
+        "description": "TeamTracker is a Spring and Java-based employee management system that enables users to add and delete employees, as well as sign in to manage various aspects of employee information and operations.",
+        "images": [
+          "images/portfolio/teamtracker/output.png"
+        ],
+        "url": "https://github.com/prak03/TeamTracker",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-spring-original-wordmark",
+            "name": "Spring"
+          }
+        ]
+      },
+      {
+        "title": "Traquake",
+        "startDate": "2021",
+        "description": "This is a live earthquake tracker which is given real time earth quake data and it depicts them on the earth visualizer. I used flask for the backend and ReactJS for the frontend and  Data is fetched from USGS API's. ",
+        "images": [
+          "/earth.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-flask-plain",
+            "name": "Flask"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Kipi.bi",
+        "title": "Software Developer",
+        "years": "10/2021 - 04/2022",
+        "mainTech": [
+        ],
+        "technologies": [
+          "REST API","Mulesoft","Java","Snowflake, Mattilion"
+        ]
+      },
+      {
+        "company": "Lineysha Technologies",
+        "title": "Intern",
+        "years": "04.2021 - 09.2021",
+        "mainTech": [
+        ],
+        "technologies": [
+          "JAVA",
+          "ReactJS",
+          "Tailwind",
+          "JavaScript",
+          "Spring"
+        ]
+      }
+    ]
+  }

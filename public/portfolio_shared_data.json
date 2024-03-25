@@ -1,0 +1,74 @@
+{
+    "basic_info": {
+      "name": "Prakash Kolluru",
+      "titles": [ "Full-Stack Developer","" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/prak03",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/prakash_kolluru",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Tailwind",
+          "class": "devicon-tailwindcss-original colored",
+          "level": "75"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MonogoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        }
+        
+      ]
+    }
+  }
